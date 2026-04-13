@@ -1,7 +1,7 @@
 # 🩺 AI-Powered Medical Image Analysis
 
 ## 📌 Overview
-This project uses Deep Learning to detect **Pneumonia from Chest X-ray images**. It includes model training, performance evaluation, and a Streamlit-based web interface for real-time predictions.
+This project uses Deep Learning to detect **Pneumonia from Chest X-ray images**. It includes model training, evaluation metrics, and a Streamlit-based web interface for real-time predictions.
 
 ---
 
@@ -11,7 +11,7 @@ This project uses Deep Learning to detect **Pneumonia from Chest X-ray images**.
 - Accuracy and Loss Visualization
 - Confusion Matrix Analysis
 - Classification Report Generation
-- Modular and Scalable Code Structure
+- Clean and Modular Code Structure
 
 ---
 
@@ -50,40 +50,40 @@ AI-Powered-Medical-Image-Analysis/
 ## 📊 Model Performance
 
 ### 📈 Accuracy Graph
-![Accuracy](outputs/accuracy.png)
+<img src="outputs/accuracy.png" width="600"/>
 
 ### 📉 Loss Graph
-![Loss](outputs/loss.png)
+<img src="outputs/loss.png" width="600"/>
 
 ### 🔲 Confusion Matrix
-![Confusion Matrix](outputs/confusion_matrix.png)
+<img src="outputs/confusion_matrix.png" width="600"/>
 
 ---
 
 ## 🧠 Prediction Results
 
 ### ✅ Normal Case
-![Normal](outputs/normal.png)
+<img src="outputs/normal.png" width="400"/>
 
 ### ❗ Pneumonia Detected
-![Pneumonia](outputs/pneunomia.png)
+<img src="outputs/pneunomia.png" width="400"/>
 
 ---
 
 ## 🌐 Streamlit Web Application
 
 ### 🖥️ UI Preview
-![Streamlit UI](outputs/streamlite_overview.png)
+<img src="outputs/streamlite_overview.png" width="700"/>
 
 ---
 
 ## 📄 Additional Outputs
 
 ### Prediction Example 1
-![Output1](outputs/output1.png)
+<img src="outputs/output1.png" width="600"/>
 
 ### Prediction Example 2
-![Output2](outputs/output1.1.png)
+<img src="outputs/output1.1.png" width="600"/>
 
 ---
 
@@ -117,22 +117,22 @@ streamlit run app.py
 ---
 
 ## 📁 Dataset
-Dataset not included due to size limitations. You can download it from:
+Dataset not included due to size limitations. Download from:
 https://www.kaggle.com/datasets/paultimothymooney/chest-xray-pneumonia
 
 ---
 
 ## ⚠️ Disclaimer
-This project is intended for educational purposes only and should not be used for real-world medical diagnosis.
+This project is for educational purposes only and should not be used for real-world medical diagnosis.
 
 ---
 
 ## 🔮 Future Enhancements
-- Add Grad-CAM visualization for model interpretability
-- Improve accuracy using Transfer Learning (ResNet, VGG16)
-- Deploy application using Streamlit Cloud or AWS
-- Extend to multi-class disease detection
-- Optimize model for real-time clinical usage
+- Add Grad-CAM for model explainability  
+- Improve accuracy using Transfer Learning (ResNet, VGG16)  
+- Deploy application using Streamlit Cloud or AWS  
+- Extend to multi-class disease detection  
+- Optimize model for real-time clinical usage  
 
 ---
 
