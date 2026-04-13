@@ -82,40 +82,9 @@ AI-Powered-Medical-Image-Analysis/
 ### 📄 Classification Report
 Detailed performance metrics (Precision, Recall, F1-Score) are available in:
 
-outputs/oureport.txt
+outputs/report.txt
 ---
 
-## 🧠 Prediction Results
-
-### ✅ Normal Case
-<img src="outputs/normal.png" width="400"/>
-
-### ❗ Pneumonia Detected
-<img src="outputs/pneunomia.png" width="400"/>
-
----
-
-## 🌐 Streamlit Web Application
-
-### 🖥️ UI Preview
-<img src="outputs/streamlite_overview.png" width="700"/>
-
----
-
-## 📄 Additional Outputs
-
-### Prediction Example 1
-<img src="outputs/output1.png" width="600"/>
-
-### Prediction Example 2
-<img src="outputs/output1.1.png" width="600"/>
-
----
-
-## 📄 Classification Report
-Refer to 'outputs/report.txt' for detailed precision, recall, and F1-score metrics.
-
----
 
 ## ⚙️ Installation
 
