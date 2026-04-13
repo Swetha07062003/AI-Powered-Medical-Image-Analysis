@@ -79,10 +79,11 @@ AI-Powered-Medical-Image-Analysis/
 ### Prediction Example 1.1
 <img src="https://raw.githubusercontent.com/Swetha07062003/AI-Powered-Medical-Image-Analysis/main/outputs/output1.1.png" width="500"/>
 
-### 📄 Classification Report
-Detailed performance metrics (Precision, Recall, F1-Score) are available in:
+## 📄 Classification Report
 
-outputs/report.txt
+Detailed performance metrics (Precision, Recall, F1-Score) are available here:
+
+👉 [Click to View Report](outputs/report.txt)
 ---
 
 
