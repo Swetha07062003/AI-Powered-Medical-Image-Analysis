@@ -76,7 +76,7 @@ AI-Powered-Medical-Image-Analysis/
 ### Prediction Example 1
 <img src="https://raw.githubusercontent.com/Swetha07062003/AI-Powered-Medical-Image-Analysis/main/outputs/output1.png" width="500"/>
 
-### Prediction Example 2
+### Prediction Example 1.1
 <img src="https://raw.githubusercontent.com/Swetha07062003/AI-Powered-Medical-Image-Analysis/main/outputs/output1.1.png" width="500"/>
 
 ### 📄 Classification Report
