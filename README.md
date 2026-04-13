@@ -50,14 +50,39 @@ AI-Powered-Medical-Image-Analysis/
 ## 📊 Model Performance
 
 ### 📈 Accuracy Graph
-<img src="outputs/accuracy.png" width="600"/>
+<img src="https://raw.githubusercontent.com/Swetha07062003/AI-Powered-Medical-Image-Analysis/main/outputs/accuracy.png" width="600"/>
 
 ### 📉 Loss Graph
-<img src="outputs/loss.png" width="600"/>
+<img src="https://raw.githubusercontent.com/Swetha07062003/AI-Powered-Medical-Image-Analysis/main/outputs/loss.png" width="600"/>
 
 ### 🔲 Confusion Matrix
-<img src="outputs/confusion_matrix.png" width="600"/>
+<img src="https://raw.githubusercontent.com/Swetha07062003/AI-Powered-Medical-Image-Analysis/main/outputs/confusion_matrix.png" width="600"/>
 
+## 🧠 Prediction Results
+
+### ✅ Normal Case
+<img src="https://raw.githubusercontent.com/Swetha07062003/AI-Powered-Medical-Image-Analysis/main/outputs/normal.png" width="400"/>
+
+### ❗ Pneumonia Detected
+<img src="https://raw.githubusercontent.com/Swetha07062003/AI-Powered-Medical-Image-Analysis/main/outputs/pneunomia.png" width="400"/>
+
+## 🌐 Streamlit Web Application
+
+### 🖥️ UI Preview
+<img src="https://raw.githubusercontent.com/Swetha07062003/AI-Powered-Medical-Image-Analysis/main/outputs/streamlite_overview.png" width="700"/>
+
+## 📄 Additional Outputs
+
+### Prediction Example 1
+<img src="https://raw.githubusercontent.com/Swetha07062003/AI-Powered-Medical-Image-Analysis/main/outputs/output1.png" width="500"/>
+
+### Prediction Example 2
+<img src="https://raw.githubusercontent.com/Swetha07062003/AI-Powered-Medical-Image-Analysis/main/outputs/output1.1.png" width="500"/>
+
+### 📄 Classification Report
+Detailed performance metrics (Precision, Recall, F1-Score) are available in:
+
+outputs/oureport.txt
 ---
 
 ## 🧠 Prediction Results
