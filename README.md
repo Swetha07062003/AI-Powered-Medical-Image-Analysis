@@ -1,4 +1,9 @@
 # 🩺 AI-Powered Medical Image Analysis
+## ❗ Problem Statement
+
+Early and accurate detection of lung diseases such as pneumonia is critical for effective medical treatment. However, traditional diagnosis using chest X-ray images requires expert radiologists, which can be time-consuming, costly, and prone to human error, especially in resource-limited settings.
+
+This project aims to develop an AI-powered medical image analysis system that can automatically classify chest X-ray images as **Normal** or **Pneumonia**. By leveraging deep learning techniques, the system assists in rapid, reliable, and scalable diagnosis, thereby supporting healthcare professionals and improving patient outcomes.
 
 ## 📌 Overview
 This project uses Deep Learning to detect **Pneumonia from Chest X-ray images**. It includes model training, evaluation metrics, and a Streamlit-based web interface for real-time predictions.
